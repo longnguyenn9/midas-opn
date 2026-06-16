@@ -1,0 +1,20 @@
+{
+  "name": "midas",
+  "version": "0.1.0",
+  "description": "Midas - turn idle loyalty assets (NeoPoints/REP) into yield-bearing positions on OPN Chain",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:opn": "hardhat run scripts/deploy.ts --network opnTestnet"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/merkle-tree": "^1.0.8",
+    "hardhat": "^2.22.10"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.0.2",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "chainId": 984,
+  "gold": "0xDda16ad62b7A8E090D0A6fa284B184215fDECA44",
+  "neo": "0xb58c6fBb7B17c42197C6770c049E0932ccfbB74a",
+  "usdt": "0xAc730999CfAA0b1F179E60BcebF1c6E7CafC9Dd1",
+  "wopn": "0xd3981deB167A9DB10Ec1a739bF4DbcF7E8708494",
+  "repOracle": "0x5Be68c1a620823dc89bE7C154cA28515Ca5dAFe7",
+  "vault": "0x9BBeF5c5e08554DD67aF1017e5936879416D073d",
+  "airdrop": "0x97F970cf695dc91Ca94CFeebDCC5A2D55aD89470",
+  "claimDeadline": 1784239451,
+  "rewardPerSecond": "100000000000000000",
+  "pools": [
+    {
+      "pid": 0,
+      "token": "0xd3981deB167A9DB10Ec1a739bF4DbcF7E8708494",
+      "symbol": "WOPN",
+      "decimals": 18,
+      "alloc": 40
+    },
+    {
+      "pid": 1,
+      "token": "0xAc730999CfAA0b1F179E60BcebF1c6E7CafC9Dd1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "alloc": 30
+    },
+    {
+      "pid": 2,
+      "token": "0xb58c6fBb7B17c42197C6770c049E0932ccfbB74a",
+      "symbol": "NEO",
+      "decimals": 18,
+      "alloc": 20
+    },
+    {
+      "pid": 3,
+      "token": "0xDda16ad62b7A8E090D0A6fa284B184215fDECA44",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "alloc": 10
+    }
+  ]
+}

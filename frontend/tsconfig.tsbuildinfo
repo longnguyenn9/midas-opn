@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/airdrop.tsx","./src/components/header.tsx","./src/components/shared.tsx","./src/components/vault.tsx","./src/lib/abis.ts","./src/lib/chain.ts","./src/lib/deployment.ts","./src/lib/format.ts","./src/lib/usemidas.ts","./src/lib/usetx.ts","./src/lib/wagmi.ts"],"version":"5.9.3"}

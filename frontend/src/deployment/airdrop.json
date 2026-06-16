@@ -1,0 +1,22 @@
+{
+  "root": "0x0718593e49676d2dfcf49f87f79680a52257e9d97665c61811fd59e4c8bf215e",
+  "format": [
+    "address",
+    "uint256"
+  ],
+  "total": "1500000000000000000000",
+  "claims": {
+    "0xdb02ded2636a577ab1bd0b716628c552ebc60716": {
+      "baseAmount": "1000000000000000000000",
+      "proof": [
+        "0xaaec2491212da70f56c4b6f402aaa3150d93d03a8751ba78fb41524e6ff05708"
+      ]
+    },
+    "0x000000000000000000000000000000000000dead": {
+      "baseAmount": "500000000000000000000",
+      "proof": [
+        "0xdc2585d9cc3bab2217c6ac556a5f08b5e7a7e32e73cacfd61298f34da5c20fc8"
+      ]
+    }
+  }
+}
